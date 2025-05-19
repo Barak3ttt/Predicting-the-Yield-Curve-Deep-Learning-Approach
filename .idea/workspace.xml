@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2534fda7-a087-4686-8125-ae666f580006" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Predicting the Yield Curve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Processing/Data Loader.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Processing/data_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exploratory Data Analysis/PCA.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector V2.0. - Regression task H1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector V3.0. - Regression task H1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM/Model Notebooks/Regression Task Final/LSTM V2.0. - Regression task-H252 (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trading/Return Computation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visualization/Output/Model Comparison.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visualization/Regression Output Vizualization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visualization/SHAP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visualization/TimeSeries Cross-Validation.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wr699qgu4lCxKFiyB8RsMFCjk2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/azorb/PycharmProjects/Predicting the Yield Curve/Visualization/Output",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\azorb\PycharmProjects\Predicting the Yield Curve\Model Fit\Notebooks\LSTM Corrector" />
+      <recent name="C:\Users\azorb\PycharmProjects\Predicting the Yield Curve\Data Processing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\azorb\PycharmProjects\Predicting the Yield Curve\Model Fit\Notebooks\LSTM\Model Notebooks\Regression Task Final" />
+      <recent name="C:\Users\azorb\PycharmProjects\Predicting the Yield Curve\Data Processing" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2534fda7-a087-4686-8125-ae666f580006" name="Changes" comment="" />
+      <created>1746787191385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746787191385</updated>
+      <workItem from="1746787192521" duration="2270000" />
+      <workItem from="1746806515572" duration="36009000" />
+      <workItem from="1746958987511" duration="33265000" />
+      <workItem from="1747129712460" duration="10041000" />
+      <workItem from="1747153759008" duration="23031000" />
+      <workItem from="1747231880689" duration="7653000" />
+      <workItem from="1747300242000" duration="24000" />
+      <workItem from="1747301475155" duration="59564000" />
+      <workItem from="1747580913625" duration="15737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector - Regression task H1.ipynb</url>
+          <line>231</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector - Regression task H1.ipynb</url>
+          <line>199</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
