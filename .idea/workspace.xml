@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2534fda7-a087-4686-8125-ae666f580006" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Predicting the Yield Curve.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Processing/Data Loader.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Processing/data_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exploratory Data Analysis/PCA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector V2.0. - Regression task H1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector V3.0. - Regression task H1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM/Model Notebooks/Regression Task Final/LSTM V2.0. - Regression task-H252 (1).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trading/Return Computation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visualization/Output/Model Comparison.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visualization/Regression Output Vizualization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visualization/SHAP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visualization/TimeSeries Cross-Validation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector - Regression task H1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector V2.0. - Regression task H1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,27 +83,11 @@
       <workItem from="1747231880689" duration="7653000" />
       <workItem from="1747300242000" duration="24000" />
       <workItem from="1747301475155" duration="59564000" />
-      <workItem from="1747580913625" duration="15737000" />
+      <workItem from="1747580913625" duration="17712000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector - Regression task H1.ipynb</url>
-          <line>231</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Model Fit/Notebooks/LSTM Corrector/LSTM Corrector - Regression task H1.ipynb</url>
-          <line>199</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
